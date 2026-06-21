@@ -1,6 +1,13 @@
+
 # Hi, I'm Purushotham Reddy 👋
 
 🎓 B.Tech CSD Student
+
+💻 Python | SQL | Power BI | Machine Learning
+
+🚀 Passionate about AI, Data Analytics, and Full-Stack Development
+
+📍 Hyderabad, India
 
 ## Skills
 - Python
