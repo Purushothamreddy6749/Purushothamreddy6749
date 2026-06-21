@@ -8,6 +8,7 @@
 🚀 Passionate about AI, Data Analytics, and Full-Stack Development
 
 📍 Hyderabad, India
+📧 r.purushothamreddy20112003@gmail.com
 
 ## Skills
 - Python
