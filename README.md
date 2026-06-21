@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Purushotham Reddy 👋
 
-<!--
-**Purushothamreddy6749/Purushothamreddy6749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSD Student
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Mood-Based Tourism Recommendation System
+- Text Summarization using NLP
+- India Election Power BI Dashboard
+- Blinkit Sales Dashboard
+
+## Certifications
+- IBM SQL and Relational Databases 101
+- Cisco Data Science Essentials with Python
+- GenAI Powered Data Analytics Job Simulation
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/r-purushotham-reddy/
+- GitHub: https://github.com/Purushothamreddy6749
